@@ -11,6 +11,6 @@
 
 ### Prerequisites
 To get started, you need to have the following installed on your system:
-- **Python**: Version 3.8 or higher
-- **Node.js**: Version 14 or higher (optional, if you plan to handle frontend dependencies with npm)
-- **pip**: Python package installer
+- **Python**
+- **Node.js**
+- **pip**
